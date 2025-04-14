@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh Choudhary
 
-<!--
-**VanshChoudhary7/VanshChoudhary7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a B.Tech in Computer Science  
+💡 Passionate about tech, problem-solving, and building cool stuff with code
 
-Here are some ideas to get you started:
+## 🧑‍💻 Tech Stack
+- 💻 Languages: **Java**, **C**, **HTML**, **CSS**
+- 🌐 Currently exploring: **Web Development** & **Object-Oriented Programming**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+- 📚 Learning **Data Structures & Algorithms** and **Java frameworks**
+- 🔧 Building personal projects to apply my skills
+- 🤝 Open to collaboration and contributing to beginner-friendly open source projects
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vansh-choudhary-3a1142334)
+
+---
+
