@@ -4,7 +4,7 @@
 💡 Passionate about tech, problem-solving, and building cool stuff with code
 
 ## 🧑‍💻 Tech Stack
-- 💻 Languages: **Java**, **C**, **HTML**, **CSS**
+- 💻 Languages: **Java**, **C**, **HTML**, **CSS** , **JavaScript** , **Node.js** , **SQL** , **Mongodb**
 - 🌐 Currently exploring: **Web Development** & **Object-Oriented Programming**
 
 ## 🚀 What I'm Up To
